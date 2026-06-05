@@ -129,5 +129,5 @@ Elevate_Labs_Internship_Project_Steganography_Tool/
 ---
 
 ## 👨‍💻 Author
-Developed by *B Sree Divya**  
+Developed by *Bollineni Akshaya**  
 🧑‍💻 Internship Project @ **Elevate Labs**
